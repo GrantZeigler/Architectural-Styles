@@ -15,6 +15,24 @@ Components:
 * Working Memory
 * User Interface
 
+Conectors:
+
+* Connection between user input and the program
+* Connection between rule base, inference engine, and user's input
+
+### Object Request Broker
+This type of system acts as a middle man between two computers. This allows program calls to be made between two systems over a network.
+
+Components:
+* Connections between the two
+* Working Memory
+* Interface Description Language - describes the data that is being transfered in its own language
+
+Connectors:
+* Connection to the computer that is calling a function
+* Connection to the computer that has the function  
+
+## Citations: 
   
 Wikipedia contributors, "Monolithic application," Wikipedia, The Free Encyclopedia, https://en.wikipedia.org/w/index.php?title=Monolithic_application&oldid=978920400 (accessed September 27, 2020).
 
